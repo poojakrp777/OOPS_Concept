@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\OOPs_Concept\OOPs_Concept\bin\Debug\OOPs_Concept.exe.config
+C:\Users\Dell\source\repos\OOPs_Concept\OOPs_Concept\bin\Debug\OOPs_Concept.exe
+C:\Users\Dell\source\repos\OOPs_Concept\OOPs_Concept\bin\Debug\OOPs_Concept.pdb
+C:\Users\Dell\source\repos\OOPs_Concept\OOPs_Concept\obj\Debug\OOPs_Concept.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\OOPs_Concept\OOPs_Concept\obj\Debug\OOPs_Concept.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\OOPs_Concept\OOPs_Concept\obj\Debug\OOPs_Concept.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\OOPs_Concept\OOPs_Concept\obj\Debug\OOPs_Concept.exe
+C:\Users\Dell\source\repos\OOPs_Concept\OOPs_Concept\obj\Debug\OOPs_Concept.pdb
